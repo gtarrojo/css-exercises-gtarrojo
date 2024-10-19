@@ -1,0 +1,20 @@
+.pink {
+  color: #11111f;
+  background-color: #fcc0cb;
+  font-family: verdana, sans-serif;
+}
+
+.bigger-font {
+  font-size: 24px;
+}
+
+#numbertwo {
+  color: #0000bf;
+  font-size: 36px;
+}
+
+#numberfour {
+  background-color: #cbfcc0;
+  font-size: 24px;
+  font-weight: bold;
+}
